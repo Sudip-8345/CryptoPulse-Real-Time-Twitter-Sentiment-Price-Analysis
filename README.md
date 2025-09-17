@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cryptocurrency Sentiment Analysis  
 
 ### Real-Time Cryptocurrency Price & Twitter Sentiment Correlation  
