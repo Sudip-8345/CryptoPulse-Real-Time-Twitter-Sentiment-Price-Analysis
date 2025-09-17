@@ -60,6 +60,3 @@ This project analyzes the relationship between **cryptocurrency price movements*
     python src/collect_tweets.py
     python src/collect_crypto.py
 =======
-# CryptoPulse-Real-Time-Twitter-Sentiment-Price-Analysis
-It is a Real-Time Twitter Sentiment &amp; Price Analysis.
->>>>>>> 5041e8f858c72f918f1f8161002a69276e31f34c
